@@ -16,7 +16,6 @@ Hi, I'm Bob, a freelance web programmer. I have done both backend and frontend p
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 </details>
 
