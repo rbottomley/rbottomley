@@ -13,6 +13,14 @@ Hi, I'm Bob, a freelance web programmer. Most of the code I have worked on is in
 ---
 
 <details>
+  <summary>:zap: Recent GitHub Activity</summary>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="rbottomley's GitHub Stats" src="https://github-readme-stats.rbottomley.vercel.app/api?username=rbottomley&show_icons=true&hide_border=true&count_private=true" />
