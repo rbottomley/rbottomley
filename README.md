@@ -24,15 +24,12 @@ Hi, I'm Bob, a freelance web programmer. I have done both backend and frontend p
 
 ---
 
-<details>
+<!--Turn off for now Details>
   <summary>:zap: Recent GitHub Activity</summary>
 
-<!--START_SECTION:activity-->
+<START_SECTION:activity>
 
-1. ❗️ Opened issue [#95](https://github.com/jGleitz/markdown-it-kbd/issues/95) in [jGleitz/markdown-it-kbd](https://github.com/jGleitz/markdown-it-kbd)
-<!--END_SECTION:activity-->
-
-</details>
+</details-->
 
 <details>
   <summary>:zap: GitHub Stats</summary>
