@@ -1,5 +1,4 @@
 [![blog](https://img.shields.io/website?label=blog&url=https%3A%2F%2Fblog.webguy.pw%2F)](https://blog.webguy.pw/)
-
 [![weatherstation](https://img.shields.io/website?label=weather%20station&url=https%3A%2F%2Fbob.webguy.pw)](https://bob.webguy.pw/)
 
 ## About Me
