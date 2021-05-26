@@ -32,12 +32,12 @@ Hi, I'm Bob, a freelance web programmer. I have done both backend and frontend p
 
 </details-->
 
-<details>
+<!-- details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="rbottomley's GitHub Stats" src="https://github-readme-stats.rbottomley.vercel.app/api?username=rbottomley&show_icons=true&hide_border=true&count_private=true" />
 
-</details>
+</detailsi-->
 
 [linkedin]: https://linkedin.com/in/rabottomley
 [weatherstation]: https://bob.webguy.pw
